@@ -1,4 +1,4 @@
-# scale-vue-with-nuxt
+# Scale Vue App with Nuxt.js
 
 > Practice project created using the course Scale Vue with Nuxt from Vue Mastery
 
